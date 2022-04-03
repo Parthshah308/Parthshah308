@@ -1,11 +1,12 @@
-![Mybanner](https://user-images.githubusercontent.com/82636823/144787655-9fe291c4-d03c-4067-a790-b6865f29bb92.png)
+
+![White and Pink Kawaii Chibi Name Tag](https://user-images.githubusercontent.com/85533749/161418561-58e0ea2e-0dad-4fd9-94ed-3ac4c1a3cff3.jpg)
 
 <h3 align="center">
-Hi there, I'm Yash parmar👋
+Hi there, I'm Parth Shah👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Data Analytics!
+I'm a Blockchain Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. I like to play with data.
