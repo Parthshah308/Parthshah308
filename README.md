@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - Personal Projects
-- n_vision_iq as a intern.
+- I have one year experience at N_VISION_IQ as a Full Stack Developer.
 
 ## 🌱 I'm currently learning
 
